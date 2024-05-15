@@ -6,11 +6,11 @@ I have 2.3+ years of experience in the field. My journey began with intensive tr
 
 ### Key Attributes:
 💡 Quick Learner: Rapidly adapt to new technologies, ensuring versatility across various stack technologies.</br>
-🎯 Goal-oriented: Dedicated to achieving company objectives through hard work and perseverance.
-🤝 Collaborative Spirit: Thrive in team environments, fostering innovation through collaboration and knowledge sharing.
-📈 Problem Solver: Identify and resolve complex issues, delivering efficient and effective solutions.
+🎯 Goal-oriented: Dedicated to achieving company objectives through hard work and perseverance.</br>
+🤝 Collaborative Spirit: Thrive in team environments, fostering innovation through collaboration and knowledge sharing.</br>
+📈 Problem Solver: Identify and resolve complex issues, delivering efficient and effective solutions.</br>
 
-### :man_technologist: My technogoly stack
+## :man_technologist: My technogoly stack
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=css3&logoColor=0774db)
 ![Sass](https://img.shields.io/badge/-Scss-090909?style=for-the-badge&logo=sass&logoColor=CC6699)
@@ -28,7 +28,7 @@ I have 2.3+ years of experience in the field. My journey began with intensive tr
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 💻 Seeking: 
+## :sunglasses: Seeking: 
 A challenging role where I can apply my expertise and continue learning while contributing to the success of dynamic projects.
 
 ## 🌐 Socials:
