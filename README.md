@@ -4,13 +4,13 @@
 Passionate about leveraging technology to create impactful solutions, I am a MERN Stack developer seeking a challenging opportunity to enhance my skills and contribute to achieving the goals of forward-thinking companies. 
 I have 2.3+ years of experience in the field. My journey began with intensive training at OSCAR Careen Point, Surat, where I immersed myself in Front-End and Back-End technologies, mastering React.js and Node.js.
 
-### Key Attributes:
-💡 Quick Learner: Rapidly adapt to new technologies, ensuring versatility across various stack technologies.</br>
-🎯 Goal-oriented: Dedicated to achieving company objectives through hard work and perseverance.</br>
-🤝 Collaborative Spirit: Thrive in team environments, fostering innovation through collaboration and knowledge sharing.</br>
-📈 Problem Solver: Identify and resolve complex issues, delivering efficient and effective solutions.</br>
+### :pushpin: Key Attributes:
+💡 **Quick Learner:** Rapidly adapt to new technologies, ensuring versatility across various stack technologies.</br>
+🎯 **Goal-oriented:** Dedicated to achieving company objectives through hard work and perseverance.</br>
+🤝 **Collaborative Spirit:** Thrive in team environments, fostering innovation through collaboration and knowledge sharing.</br>
+📈 **Problem Solver:** Identify and resolve complex issues, delivering efficient and effective solutions.</br>
 
-## :man_technologist: My technogoly stack
+### :man_technologist: My technogoly stack
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=css3&logoColor=0774db)
 ![Sass](https://img.shields.io/badge/-Scss-090909?style=for-the-badge&logo=sass&logoColor=CC6699)
@@ -28,15 +28,15 @@ I have 2.3+ years of experience in the field. My journey began with intensive tr
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## :sunglasses: Seeking: 
+### :sunglasses: Seeking: 
 A challenging role where I can apply my expertise and continue learning while contributing to the success of dynamic projects.
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![Email](https://img.shields.io/badge/Gmail-090909?style=for-the-badge&logo=gmail&logoColor=0774db)](mailto:bhautikmerndevelopers@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedIn&logoColor=0EA5E9)](linkedin.com/in/bhautik-davariya-15b2b722a)
 [![Portfolio](https://img.shields.io/badge/Portfolio-090909?style=for-the-badge&logo=globe&logoColor=0EA5E9)](bhautikdavariya.github.io/bhautik-portfolio/)
 
-### :thumbsup: Let's collaborate and innovate together to drive success!
+### :handshake: Let's collaborate and innovate together to drive success!
 
 
 
