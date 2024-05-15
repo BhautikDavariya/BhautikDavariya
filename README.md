@@ -5,7 +5,7 @@ Passionate about leveraging technology to create impactful solutions, I am a MER
 I have 2.3+ years of experience in the field. My journey began with intensive training at OSCAR Careen Point, Surat, where I immersed myself in Front-End and Back-End technologies, mastering React.js and Node.js.
 
 ### Key Attributes:
-💡 Quick Learner: Rapidly adapt to new technologies, ensuring versatility across various stack technologies.
+💡 Quick Learner: Rapidly adapt to new technologies, ensuring versatility across various stack technologies.</br>
 🎯 Goal-oriented: Dedicated to achieving company objectives through hard work and perseverance.
 🤝 Collaborative Spirit: Thrive in team environments, fostering innovation through collaboration and knowledge sharing.
 📈 Problem Solver: Identify and resolve complex issues, delivering efficient and effective solutions.
