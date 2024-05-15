@@ -22,7 +22,9 @@ A challenging role where I can apply my expertise and continue learning while co
 
 Let's Connect:
 📧 Email: bhautikmerndevelopers@gmail.com
+
 🔗 LinkedIn: linkedin.com/in/bhautik-davariya-15b2b722a
+
 🌐 Portfolio: bhautikdavariya.github.io/bhautik-portfolio/
 
 Let's collaborate and innovate together to drive success!
