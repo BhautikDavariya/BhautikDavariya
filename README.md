@@ -17,16 +17,16 @@ I have 2.3+ years of experience in the field. My journey began with intensive tr
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=dbc607)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=0794db)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/react-%090909.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-090909?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux&logoColor=7A4FB8)
 ![React Router](https://img.shields.io/badge/React_Router-090909?style=for-the-badge&logo=react-router&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%090909.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-090909?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack&logoColor=88CEF3)
 ![NPM](https://img.shields.io/badge/-npm-090909?style=for-the-badge&logo=npm&logoColor=88CC53635EF3)
 ![yarn](https://img.shields.io/badge/-yarn-090909?style=for-the-badge&logo=yarn&logoColor=88CC53635EF3)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-090909?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%090909.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### :sunglasses: Seeking: 
 A challenging role where I can apply my expertise and continue learning while contributing to the success of dynamic projects.
