@@ -16,7 +16,7 @@ I have 2.3+ years of experience in the field. My journey began with intensive tr
 ![Sass](https://img.shields.io/badge/-Scss-090909?style=for-the-badge&logo=sass&logoColor=CC6699)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=dbc607)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=0794db)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%090909.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/react-%090909.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux&logoColor=7A4FB8)
 ![React Router](https://img.shields.io/badge/React_Router-090909?style=for-the-badge&logo=react-router&logoColor=white)
