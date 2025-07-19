@@ -34,7 +34,7 @@ A challenging role where I can apply my expertise and continue learning while co
 ### 🌐 Socials:
 [![Email](https://img.shields.io/badge/Gmail-090909?style=for-the-badge&logo=gmail&logoColor=0774db)](mailto:bhautikmerndevelopers@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedIn&logoColor=0EA5E9)](linkedin.com/in/bhautik-davariya-15b2b722a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-090909?style=for-the-badge&logo=globe&logoColor=0EA5E9)](bhautikdavariya.github.io/bhautik-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-090909?style=for-the-badge&logo=globe&logoColor=0EA5E9)](bhautikdavariya.github.io/bhautik-davariya-portfolio/)
 
 ### :handshake: Let's collaborate and innovate together to drive success!
 
