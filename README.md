@@ -40,7 +40,7 @@ A challenging role where I can apply my expertise and continue learning while co
 
 <br clear="both">
 
-<p align="center">
+<p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tejasv-tagline/tejasv-tagline/snake-output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tejasv-tagline/tejasv-tagline/snake-output/github-contribution-grid-snake.svg"/>
